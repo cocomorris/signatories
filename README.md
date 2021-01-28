@@ -5,10 +5,10 @@ After the PR is approved, your signature should be included in the site within a
 
 ## Signature File Naming Convention
 
-`<full-name-here>_<YYYY-MM-DD>.json`
+`<Full-Name-Here>_<YYYY-MM-DD>.json`
 Example: `Joe-Blow_2021-01-15.json` - For Joe Blow, signed on January 15th, 2021.
 
-Use dashes to separate your first and last name, initials, and identifiers.
+Use dashes to separate your first and last name, initials, and identifiers. Names can include capitalization.
 To discern between you and someone with the same full name - you may want to include a middle name, middle initial(s), or company after your name.
 
 Example: `Joe-F-Blow-SomeCompany_2021-01-15.json`.
