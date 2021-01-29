@@ -1,7 +1,7 @@
 # Signing the Whirlpool Manifesto
 Sign the [Whirlpool Manifesto](https://whirlpoolmanifesto.org) by creating a pull request in this repository. Your PR should contain a new JSON file in the /signatories folder. Make sure the filename is unique (it should include your name and the date signed) and carefully follow the format described below.
 
-After the PR is approved, your signature should be included at [whirlpoolmanifesto.org/signatories](whirlpoolmanifesto.org/signatories) within approximately 8 hours. 
+After the PR is approved, your signature should be included at [whirlpoolmanifesto.org/signatories](https://whirlpoolmanifesto.org/signatories) within approximately 8 hours. 
 
 ## Signature File Naming Convention
 
