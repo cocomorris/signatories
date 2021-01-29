@@ -16,7 +16,7 @@ Example: `Joe-F-Blow-SomeCompany_2021-01-15.json`.
 
 ## Signature File Format
 
-A signature file should contain your full name (required), date of signing (required), and optionally a personal homepage (such as a GitHub or Twitter) and a quick professional profile.
+A signature file should contain your full name (required), date of signing (required), and optionally a personal homepage (such as a GitHub page or Twitter account) and a quick professional profile.
 
 ```JSON
 {
