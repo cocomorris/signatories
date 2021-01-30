@@ -7,12 +7,13 @@ After the PR is approved, your signature should be included at [whirlpoolmanifes
 
 `<Full-Name-Here>_<YYYY-MM-DD>.json`
 
-Example: `Joe-Blow_2021-01-15.json` - for Joe Blow, signed on January 15th, 2021.
+Example (for Joe Blow, signed on January 15th, 2021):\
+`Joe-Blow_2021-01-15.json`
 
 Use dashes to separate your first and last name, initials, and identifiers. Names can include capitalization.
-To discern between you and someone with the same full name - you may want to include a middle name, middle initial(s), or company after your name.
+To discern between you and someone with the same full name - you may want to include a middle name, middle initial(s), or company after your name. For example:\
+`Joe-F-Blow-SomeCompany_2021-01-15.json`
 
-Example: `Joe-F-Blow-SomeCompany_2021-01-15.json`.
 
 ## Signature File Format
 
